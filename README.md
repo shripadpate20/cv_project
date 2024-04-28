@@ -1,5 +1,5 @@
 # Dependancies
-## In requirement. txt download write following dependancies and install using
+## In requirement. txt write following dependancies and install using
 Pip3 install -r requirement.txt
 * cv2
 * numpy
